@@ -3,7 +3,7 @@ An Bash & Python Script For Generating Payloads that Bypasses All Antivirus so f
 
 PLEASE DON'T UPLOAD BACKDOOR TO WWW.VIRUSTOTAL.COM
   <br />
-  ![](ScreenShots/Screenshot_2.png)
+  ![](Screenshot_2.png)
 
 # Important
  This Version Just for test , In future I will update ASWCrypter to generate a payloads for linux ,Mac and Windows . ;) 
@@ -22,11 +22,15 @@ remember this is only for educational purpose.***
   3. chmod +x setup.sh or chmod 777 setup.sh 
  
  # Screenshot
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
-![](11.png)
-![](12.png)
+![](1.png) <br/>
+![](2.png) <br/>
+![](3.png) <br/>
+![](4.png) <br/>
+![](5.png) <br/>
+![](6.png) <br/>
+![](7.png) <br/>
+![](8.png) <br/>
+![](9.png) <br/>
+![](10.png) <br/>
+![](11.png) <br/>
+![](12.png) <br/>
