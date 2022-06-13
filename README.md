@@ -22,11 +22,11 @@ remember this is only for educational purpose.***
   3. chmod +x setup.sh or chmod 777 setup.sh 
  
  # Screenshot
-![](ScreenShots/1.png)
-![](ScreenShots/2.png)
-![](ScreenShots/3.png)
-![](ScreenShots/4.png)
-![](ScreenShots/5.png)
-![](ScreenShots/6.png)
-![](ScreenShots/11.png)
-![](ScreenShots/12.png)
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+![](11.png)
+![](12.png)
